@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Gianluca Carra, a dedicated freelance web deve
 
 ## Experience 💼
 
-I've been working as a freelance web developer for over two years, specializing in developing responsive and intuitive web applications. My expertise includes creative problem-solving and a deep understanding of each project's unique essence.
+I've been working as a freelance web developer for over three years, specializing in developing responsive and intuitive web applications. My expertise includes creative problem-solving and a deep understanding of each project's unique essence.
 
 ## Approach 🎨
 
