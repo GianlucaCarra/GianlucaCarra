@@ -22,6 +22,6 @@ What sets me apart is an unwavering commitment to fostering credibility and tran
 
 ## Portfolio 🌐
 
-Feel free to explore my comprehensive [portfolio](https://seu-portfolio.com) to see firsthand how I can enhance your digital presence.
+Feel free to explore my comprehensive [portfolio](https://giancarra.com) to see firsthand how I can enhance your digital presence.
 
 Let's connect and discuss how we can work together to turn your visions into compelling digital realities!
