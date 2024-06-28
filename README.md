@@ -4,9 +4,11 @@ Welcome to my GitHub profile! I'm Gianluca Carra, a dedicated freelance web deve
 
 ## Skills 🚀
 
-- **Front-End:** HTML, CSS, JavaScript, ReactJS
-- **Back-End:** NodeJS
-- **Database:** SQLite, SQL
+- **Front-End:** HTML, CSS, JavaScript, ReactJS, React Native, TypeScript
+- **Back-End:** NodeJS, API REST, GraphQL
+- **Database:** SQLite, SQL, PostgreSQL, MongoDB
+- **Testing:** Jest
+- **Cloud Services:** AWS
 
 ## Experience 💼
 
