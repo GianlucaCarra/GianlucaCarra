@@ -4,19 +4,19 @@ Welcome to my GitHub profile! I'm Gianluca Carra, a dedicated freelance web deve
 
 ## Skills 🚀
 
-- **Front-End:** HTML, CSS, JavaScript, ReactJS, React Native, TypeScript
-- **Back-End:** NodeJS, API REST, GraphQL
+- **Front-End:** JavaScript, ReactJS, React Native, TypeScript 
+- **Back-End:** NodeJS, ASP.NET Core, API REST, GraphQL
 - **Database:** SQLite, SQL, PostgreSQL, MongoDB
 - **Testing:** Jest
-- **Cloud Services:** AWS
+- **Cloud Services:** AWS, Azure
 
 ## Experience 💼
 
-I've been working as a freelance web developer for over three years, specializing in developing responsive and intuitive web applications. My expertise includes creative problem-solving and a deep understanding of each project's unique essence.
+I've been working as a freelance developer for over four years, specializing in developing responsive and intuitive applications. My expertise includes creative problem-solving and a deep understanding of each project's unique essence.
 
 ## Approach 🎨
 
-My approach to web development is marked by a harmonious blend of creativity and problem-solving. I thrive on overcoming challenges and bringing innovative solutions to elevate your projects. Beyond coding proficiency, I possess a commitment to credibility and transparency in every collaboration.
+My approach to development is marked by a harmonious blend of creativity and problem-solving. I thrive on overcoming challenges and bringing innovative solutions to elevate your projects. Beyond coding proficiency, I possess a commitment to credibility and transparency in every collaboration.
 
 ## Collaboration 🤝
 
