@@ -1,6 +1,6 @@
-# Gianluca Carra - Web Developer 👨‍💻
+# Gianluca Carra - Full-Stack Developer 👨‍💻
 
-Welcome to my GitHub profile! I'm Gianluca Carra, a dedicated freelance web developer with a passion for crafting exceptional digital experiences.
+Welcome to my GitHub profile! I'm Gianluca Carra, a dedicated developer with a passion for crafting exceptional digital experiences.
 
 ## Skills 🚀
 
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm Gianluca Carra, a dedicated freelance web deve
 
 ## Experience 💼
 
-I've been working as a freelance developer for over four years, specializing in developing responsive and intuitive applications. My expertise includes creative problem-solving and a deep understanding of each project's unique essence.
+I've been working as a developer for over four years, specializing in developing responsive and intuitive applications. My expertise includes creative problem-solving and a deep understanding of each project's unique essence.
 
 ## Approach 🎨
 
