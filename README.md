@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm Gianluca Carra, a dedicated developer with a p
 
 ## Skills 🚀
 
-- **Front-End:** JavaScript, ReactJS, React Native, TypeScript 
-- **Back-End:** NodeJS, ASP.NET Core, API REST, GraphQL, TypeScript
+- **Front-End:** C#, JavaScript, ReactJS, React Native, TypeScript 
+- **Back-End:** C#, NodeJS, ASP.NET Core, API REST, GraphQL, TypeScript
 - **Database:** SQLite, SQL, PostgreSQL, MongoDB
 - **Testing:** Jest
 - **Cloud Services:** AWS, Azure
