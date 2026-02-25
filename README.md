@@ -1,4 +1,4 @@
-#Hi! ☕🐈🎧
+# Hi! ☕🐈🎧
 
 I'm Gianluca Carra, a Full-Stack Developer specializing in C# / .NET and Typescript, with experience in developing scalable, high-performance APIs.
 
@@ -6,10 +6,10 @@ In recent years, I have worked on real projects using ASP.NET Core, NestJS (Node
 
 My main focus is on the backend, but I also have experience with TypeScript and JavaScript, working with NestJS, Node.js, and React-based applications, which allows me to collaborate effectively in full-stack contexts as well.
 
-##Main technologies:
-###• Backend: C#/.NET, ASP.NET Core, REST API, PostgreSQL, Redis, JWT, OAuth, NestJS
-###• Frontend: TypeScript, React, Next.js  
-###• Tools: Git, Docker, CI/CD, Swagger, Postman  
+## Main technologies:
+### • Backend: C#/.NET, ASP.NET Core, REST API, PostgreSQL, Redis, JWT, OAuth, NestJS
+### • Frontend: TypeScript, React, Next.js  
+### • Tools: Git, Docker, CI/CD, Swagger, Postman  
 
 I am currently looking for **remote or hybrid** opportunities where I can contribute to the development of robust and scalable backend systems.
 
