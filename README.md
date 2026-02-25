@@ -1,45 +1,22 @@
-# Hi there! ☕🐈🎧 I'm Gianluca Carra
+#Hi! ☕🐈🎧
 
-I'm a **Backend Developer** specialized in **C# / .NET**, with a strong focus on building **scalable, maintainable, and high-performance APIs**.
+I'm Gianluca Carra, a Full-Stack Developer specializing in C# / .NET and Typescript, with experience in developing scalable, high-performance APIs.
 
-I enjoy working on backend systems, clean architecture, and solutions designed to scale as products grow. My approach prioritizes code quality, clarity, and long-term maintainability.
+In recent years, I have worked on real projects using ASP.NET Core, NestJS (NodeJS), Next.js (React), PostgreSQL, and modern authentication systems such as JWT and OAuth, with a focus on software architecture, code maintainability, and scalability.
 
----
+My main focus is on the backend, but I also have experience with TypeScript and JavaScript, working with NestJS, Node.js, and React-based applications, which allows me to collaborate effectively in full-stack contexts as well.
 
-## 🚀 Main Tech Stack
+##Main technologies:
+###• Backend: C#/.NET, ASP.NET Core, REST API, PostgreSQL, Redis, JWT, OAuth, NestJS
+###• Frontend: TypeScript, React, Next.js  
+###• Tools: Git, Docker, CI/CD, Swagger, Postman  
 
-### 🖥️ Backend (Core)
-- C# / .NET  
-- ASP.NET Core  
-- REST APIs  
-- PostgreSQL  
-- Entity Framework Core  
-- JWT / OAuth  
-- Redis  
+I am currently looking for **remote or hybrid** opportunities where I can contribute to the development of robust and scalable backend systems.
 
-### 🧰 Backend Tools
-- Docker  
-- CI/CD (GitHub Actions, Jenkins)  
-- Git  
-- Swagger / Postman  
+Feel free to contact me for collaboration or to exchange technical ideas.
 
-### 🌐 Additional Experience
-- TypeScript / JavaScript  
-- Node.js / NestJS  
-- React / Next.js  
-
----
-
-## 💡 About Me
-I'm continuously improving my skills in **backend architecture**, **distributed systems**, and **software design patterns**.
-
-Outside of coding, I enjoy **coffee, music, and spending time with my cats**. ☕🎵🐱
-
----
 
 ## 📬 Contact
 - **Email:** contact@giancarra.com  
 - **LinkedIn:** https://www.linkedin.com/in/giancarra  
 - **Website:** https://giancarra.com  
-
-Feel free to reach out if you'd like to **discuss backend development or collaboration opportunities**.
